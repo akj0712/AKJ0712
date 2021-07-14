@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akj0712
+- 👋 Hi, I’m Abhinav
 - 👀 I’m interested in coding, webdev, music and movies.
 - 🌱 I’m currently learning HTML, CSS and C Language.
 - 💞️ I’m looking to collaborate on my C and HTML projects.
