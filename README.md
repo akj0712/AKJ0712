@@ -12,7 +12,6 @@
 <p align="left">
 </p>
 
-
 ### Competitive programming platform presence: 3🌟on [CodeChef](https://www.codechef.com/users/akj0712) | [Codeforces](https://codeforces.com/profile/akj0712)
 
 ### Reach me out at: [Twitter](https://twitter.com/akj0712) | [Telegram](https://t.me/akj0712)
