@@ -5,11 +5,8 @@
 - 👯 I’m looking to collaborate on MERN Stack Projects.
 - ⚡ Fun fact: I am the most interesting person once I am comfortable with you.
 
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akj0712&label=Profile%20views&color=0e75b6&style=flat" alt="akj0712" /> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 ### Competitive programming platform presence: 3🌟on [CodeChef](https://www.codechef.com/users/akj0712) | [Codeforces](https://codeforces.com/profile/akj0712)
