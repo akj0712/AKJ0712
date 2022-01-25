@@ -26,3 +26,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akj0712&layout=compact&color=2e2e2e&theme=great-gatsby&show_icons=true&icon_color=f54260&title_color=f54260&text_color=e9ff6b&bg_color=090909&border_color=fff75e">
 
 
+<!-- <p align="center"> <a href="https://twitter.com/akj0712" target="blank"><img src="https://img.shields.io/twitter/follow/akj0712?logo=twitter&style=for-the-badge" alt="akj0712" /></a> </p> -->
