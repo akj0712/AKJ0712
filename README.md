@@ -9,13 +9,16 @@
 
 ### Reach me out at: [Twitter](https://twitter.com/akj0712) | [Telegram](https://t.me/akj0712)
 
-<!-- ### My Github Stats: -->
+### My Github Stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=akj0712&theme=great-gatsby&show_icons=true&icon_color=f54260&title_color=f54260&bg_color=090909&border_color=ff695e">
 
 
 
 
 
+### Languages I use:
 
-<!-- ### Languages I used: -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akj0712&layout=compact&color=2e2e2e&theme=great-gatsby&show_icons=true&icon_color=f54260&title_color=f54260&text_color=e9ff6b&bg_color=090909&border_color=fff75e">
 
 
