@@ -1,13 +1,18 @@
-### Hi there, I'm Abhinav 👋
-
-- 🔭 I’m interested in Web Development, Competitive Programming, Anime and stuffs...
-- 🌱 I’m currently learning JavaScript Frameworks(node.js)
-- 👯 I’m looking to collaborate on MERN Stack Projects.
-- ⚡ Fun fact: I am the most interesting person once I am comfortable with you.
-
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akj0712&label=Profile%20views&color=0e75b6&style=flat" alt="akj0712" /> </p>
-
+### Hi there 👋
+</br>
+I am <a href="https://github.com/akj0712"> Abhinav Kumar Jha</a>. I am an Open Source enthusiast. Want to contribute to numerous projects. <b>Node</b> is my weapon ⚔️. Besides programming, I love to play table cricket 🏏
+</br></br>
+<img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+</br>
+<b>Talking About Myself</b></br></br>
+•  I’m always working on something cool. </br>
+•  I’m interested in Web Development, Competitive Programming, Anime and stuffs...</br>
+•  I’m currently learning JavaScript Frameworks(node.js)</br>
+•  I’m looking to collaborate on MERN Stack Projects.</br>
+•  Fun fact: I can sleep for 12 hours straight.</br>
+•  I'm always open to have a chit-chat with you :) </br>
+</br></br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akj0712&label=Profile%20views&color=0e75b6&style=flat" alt="akj0712" /> </p></br>
 
 ### Competitive programming platform presence: [CodeChef](https://www.codechef.com/users/akj0712) 3🌟 | [Codeforces](https://codeforces.com/profile/akj0712)
 
@@ -27,7 +32,7 @@
 
 
 
-### Weekly Coding Stats
+### Weekly Coding Stats:
 
 [![Abhinav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akj0712)](https://github.com/anuraghazra/github-readme-stats)
 
