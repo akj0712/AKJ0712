@@ -1,10 +1,10 @@
 ### Hi there 👋
 </br>
-I am <a href="https://github.com/akj0712"> Abhinav Kumar Jha</a>. I am an Open Source enthusiast. Want to contribute to numerous projects. <b>Node</b> is my weapon ⚔️. Besides programming, I love to play cricket 🏏
+<b>I am <a href="https://github.com/akj0712"> Abhinav Kumar Jha</a>. I am an Open Source enthusiast. Want to contribute to numerous projects. <b>Node</b> is my weapon ⚔️. Besides programming, I love to play cricket 🏏</b>
 </br></br>
 <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 </br>
-<b>Talking About Myself</b></br></br>
+<b>Talking About Myself:</b></br></br>
 •  <b>I’m always working on something cool.</b> </br>
 •  I’m interested in <b>Web Development, Competitive Programming, Anime and stuffs</b>...</br>
 •  I’m currently mastering <b>JavaScript Frameworks(node.js)</b></br>
