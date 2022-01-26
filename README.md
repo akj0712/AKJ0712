@@ -12,7 +12,7 @@ I am <a href="https://github.com/akj0712"> Abhinav Kumar Jha</a>. I am an Open S
 •  Fun fact: I can sleep for 12 hours straight.</br>
 •  I'm always open to have a chit-chat with you :) </br>
 </br></br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akj0712&label=Profile%20views&color=0e75b6&style=flat" alt="akj0712" /> </p></br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akj0712&label=Profile%20views&color=0e75b6&style=flat" alt="akj0712" /> </p></br></br>
 
 ### Competitive programming platform presence: [CodeChef](https://www.codechef.com/users/akj0712) 3🌟 | [Codeforces](https://codeforces.com/profile/akj0712)
 
