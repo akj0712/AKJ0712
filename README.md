@@ -27,8 +27,8 @@
 
 
 
-### Weekly Coding Stats
+<!-- ### Weekly Coding Stats
 
-[![Abhinav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akj0712)](https://github.com/anuraghazra/github-readme-stats)
+[![Abhinav's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akj0712)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- <p align="center"> <a href="https://twitter.com/akj0712" target="blank"><img src="https://img.shields.io/twitter/follow/akj0712?logo=twitter&style=for-the-badge" alt="akj0712" /></a> </p> -->
