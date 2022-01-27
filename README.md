@@ -16,7 +16,7 @@
 
 ### Competitive programming platform presence: [CodeChef](https://www.codechef.com/users/akj0712) 3🌟 | [Codeforces](https://codeforces.com/profile/akj0712)
 
-### Reach me out at: [Linkedin](https://www.linkedin.com/in/akj0712/) | [Twitter](https://twitter.com/akj0712) | [Telegram](https://t.me/akj0712)
+### Reach me out at: [Linkedin](https://www.linkedin.com/in/akj0712/) | [Twitter](https://twitter.com/akj0712) | [Telegram](https://t.me/akj0712) | [Instagram](https://www.instagram.com/akj0712/)
 
 ### My Github Stats:
 
