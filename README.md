@@ -14,6 +14,9 @@
 </br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akj0712&label=Profile%20views&color=0e75b6&style=flat" alt="akj0712" /> </p></br></br>
 
+### I constantly write articles on: [Abhinav's Blog](https://akj07.hashnode.dev/)
+</br>
+
 ### Competitive programming platform presence: [CodeChef](https://www.codechef.com/users/akj0712) 3🌟 | [Codeforces](https://codeforces.com/profile/akj0712)
 </br>
 
