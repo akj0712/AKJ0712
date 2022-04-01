@@ -1,7 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Abhinav Kumar Jha</h1>
+<h3 align="center">I am an Open Source enthusiast. Want to contribute to numerous projects. <b>Node</b> is my weapon ⚔️. Besides programming, I love to play cricket 🏏</h3>
 </br>
-<b>I am <a href="https://github.com/akj0712"> Abhinav Kumar Jha</a>. I am an Open Source enthusiast. Want to contribute to numerous projects. <b>Node</b> is my weapon ⚔️. Besides programming, I love to play cricket 🏏</b>
-</br></br>
 <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 </br>
 <b>Talking About Myself:</b></br></br>
