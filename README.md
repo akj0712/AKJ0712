@@ -9,10 +9,12 @@
 •  I’m currently mastering <b>JavaScript Frameworks(node.js)</b></br>
 •  I’m looking to collaborate on <b>MERN Stack Projects.</b></br>
 •  <b>Fun fact</b>: I can sleep for 12 hours straight.</br>
-•  I'm always open to have a chit-chat with you :) 
-•  I also [drink coffee](https://www.buymeacoffee.com/akj0712) if you like to give me one.</br>
+•  I'm always open to have a chit-chat with you :) </br>
 </br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akj0712&label=Profile%20views&color=0e75b6&style=flat" alt="akj0712" /> </p></br></br>
+
+### I also [drink coffee](https://www.buymeacoffee.com/akj0712) ☕ if you like to give me one.
+</br>
 
 ### I constantly write articles on: [Abhinav's Blog](https://akj07.hashnode.dev/)
 </br>
