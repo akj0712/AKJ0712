@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Kumar Jha</h1>
 <h3 align="center">I am an Open Source enthusiast. Want to contribute to numerous projects. <b>Node</b> is my weapon ⚔️. Besides programming, I love to play cricket 🏏</h3>
 </br>
-<div align="right"">
+<div align="right">
 
 ![it's me](readme.gif)
 
