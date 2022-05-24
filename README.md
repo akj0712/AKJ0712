@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhinav Kumar Jha</h1>
 <h3 align="center">I am an Open Source enthusiast. Want to contribute to numerous projects. <b>Node</b> is my weapon ⚔️. Besides programming, I love to play cricket 🏏</h3>
 </br>
-<img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="right"">
+
+![it's me](readme.gif)
+
+</div>
+<!-- <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> -->
 </br>
 <b>Talking About Myself:</b></br></br>
 •  <b>I’m always working on something cool.</b> </br>
