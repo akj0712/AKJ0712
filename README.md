@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhinav Kumar Jha</h1>
 <h3 align="center">I am an Open Source enthusiast. Want to contribute to numerous projects. <b>Node</b> is my weapon ⚔️. Besides programming, I love to play cricket 🏏</h3>
-</br>
-<div align="center">
 
-![it's me](readme.gif)
+</br></br>
 
-</div>
-<!-- <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> -->
-</br>
+<img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 <b>Talking About Myself:</b></br></br>
 •  <b>I’m always working on something cool.</b> </br>
-•  I’m interested in <b>Web Development, Competitive Programming, Anime and stuffs</b>...</br>
-•  I’m currently mastering <b>JavaScript Frameworks(node.js)</b></br>
+•  I’m interested in <b>Web Development, Competitive Programming, </br> Anime and stuffs</b>...</br>
+•  I’m currently mastering <b>JavaScript Frameworks(react)</b></br>
 •  I’m looking to collaborate on <b>MERN Stack Projects.</b></br>
 •  <b>Fun fact</b>: I can sleep for 12 hours straight.</br>
 •  I'm always open to have a chit-chat with you :) </br>
