@@ -6,7 +6,7 @@
 <img align="right" height="350px" width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 <b>Talking About Myself:</b></br></br>
 •  <b>I’m always working on something cool.</b> </br>
-•  I’m interested in <b>Web Development, Competitive Programming, </br> Anime and stuffs</b>...</br>
+•  I’m interested in <b>Web Development, Competitive Programming, Anime and stuffs</b>...</br>
 •  I’m currently mastering <b>JavaScript Frameworks(react)</b></br>
 •  I’m looking to collaborate on <b>MERN Stack Projects.</b></br>
 •  <b>Fun fact</b>: I can sleep for 12 hours straight.</br>
