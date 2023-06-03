@@ -14,16 +14,16 @@
 </br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akj0712&label=Profile%20views&color=0e75b6&style=flat" alt="akj0712" /> </p></br></br>
 
-### I also [drink coffee](https://www.buymeacoffee.com/akj0712) ☕ if you like to give me one.
+### I also [drink coffee](https://www.buymeacoffee.com/abhinavjha07) ☕ if you like to give me one.
 </br>
 
-### I constantly write articles on: [Abhinav's Blog](https://akj07.hashnode.dev/)
+### I constantly write articles on: [Abhinav's Blog](https://abhinavjha07.hashnode.dev/)
 </br>
 
-### Competitive programming platform presence: [CodeChef](https://www.codechef.com/users/akj0712) 3🌟 | [Codeforces](https://codeforces.com/profile/akj0712)
+### Competitive programming platform presence: [CodeChef](https://www.codechef.com/users/akj0712) 3🌟 | [Codeforces](https://codeforces.com/profile/carbonAKJcode)
 </br>
 
-### Reach me out at: [Linkedin](https://www.linkedin.com/in/akj0712/) | [Twitter](https://twitter.com/akj0712) | [Telegram](https://t.me/akj0712) | [Instagram](https://www.instagram.com/akj0712/)
+### Reach me out at: [Linkedin](https://www.linkedin.com/in/abhinavjha07/) | [Twitter](https://twitter.com/abhinav_jha07) | [Telegram](https://t.me/abhinav_kumar_jha) | [Instagram](https://www.instagram.com/abhinav_.jha_/)
 </br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
