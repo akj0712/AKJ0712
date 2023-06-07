@@ -20,7 +20,7 @@
 ### I constantly write articles on: [Abhinav's Blog](https://abhinavjha07.hashnode.dev/)
 </br>
 
-### Competitive programming platform presence: [CodeChef](https://www.codechef.com/users/akj0712) 3🌟 | [Codeforces](https://codeforces.com/profile/carbonAKJcode)
+### Competitive programming platform presence: CodeChef 3 🌟 | [Codeforces](https://codeforces.com/profile/carbonAKJcode)  (1223) 
 </br>
 
 ### Reach me out at: [Linkedin](https://www.linkedin.com/in/abhinavjha07/) | [Twitter](https://twitter.com/abhinav_jha07) | [Telegram](https://t.me/abhinav_kumar_jha) | [Instagram](https://www.instagram.com/abhinav_.jha_/)
